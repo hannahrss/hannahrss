@@ -1,4 +1,4 @@
-![GitHub Profile Banner](/GitHub Profile Banner.png)
+![GitHub Profile Banner]
 
 ### Hi there 👋 i am hannah scaglione
 
