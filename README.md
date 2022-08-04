@@ -1,3 +1,5 @@
+![GitHub Profile Banner](/GitHub_Profile_Banner_Cropped.png)
+
 ### Hi there 👋
 
 <!--
